@@ -24,10 +24,10 @@ public class Game
 		for (int i = 0; i < taille; i++)
 		{
 			// charAt est une méthode de la classe String
-      		// qui permet de stocker une chaine de caractères
-      		// dans un tableau de caractères 
-      		tabChar[i] = s.charAt(i);
-      	}
+			// qui permet de stocker une chaine de caractères
+			// dans un tableau de caractères 
+			tabChar[i] = s.charAt(i);
+		}
      
 		/* ou bien
 		 * 
